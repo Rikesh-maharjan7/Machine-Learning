@@ -15,7 +15,7 @@ Machine Learning-Based Spam and Network Anomaly Detection for Securing Communica
     scipy
 <h1>Usage</h1>
 To replicate the study and run tSpam and Network Anomaly Detection  system:
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git` 
+1. Clone the repository: `git clone https://github.com/Rikesh-maharjan7/Machine-Learning.git` 
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Navigate to the project directory: `cd path/to/project`
-4. Run the fuzzy logic system: `python main.py`
+4. Run the fuzzy logic system: `Spams_and_network_anamoly_detection_healthcare.ipynb`
